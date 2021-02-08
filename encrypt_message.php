@@ -1,3 +1,4 @@
+<?php 
 // encryption function
 function simple_crypt( $string, $action = 'e' ) {
     // you may change these values to your own
